@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Wecome to My School</title>
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom -->
+      <link href="css/custom.css" rel="stylesheet">
+      <link href="css/basic.css" rel="stylesheet">
+      <!-- Slider -->
+		<link rel="stylesheet" type="text/css" href="css/slider.css" />
+		<script type="text/javascript" src="js/slider/jquery.js"></script>
+   </head>
+   <body>
+      <div class="header">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-3">
+                  <img src="images/commons/my-school-logo.png" width="250">
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <nav class="navbar navbar-inverse" role="navigation">
+         <div class="container">
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+            </div>
+            <div class="collapse navbar-collapse nav-comstom" id="myNavbar">
+               <ul class="nav navbar-nav">
+                  <li class="actives"><a href="">HOME</a></li>
+                  <li><a href="">ABOUT US</a></li>
+                  <li><a href="">ACADEMICS</a></li>
+                  <li><a href="">FACILITIES</a></li>
+                  <li><a href="">NEWS & EVENTS</a></li>
+                  <li><a href="">CONTACT US</a></li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="slider">
+                  <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+                  <div id="wowslider-container1">
+                     <div class="ws_images">
+                        <ul>
+                           <li><img src="images/sliders/AustraliaDestinationPage1.jpg" width="100%"></li>
+                           <li><img src="images/sliders/AustraliaDestinationPage2.jpg" width="100%"></li>
+                        </ul>
+                     </div>
+                     <div class="ws_shadow"></div>
+                  </div>
+                  <script type="text/javascript" src="js/slider/wowslider.js"></script>
+                  <script type="text/javascript" src="js/slider/script.js"></script>
+                  <!-- End WOWSlider.com BODY section -->
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <div class="container">
+			<div class="row">
+            <div class="col-lg-12">
+               <div class="blue-head">WELCOME MESSAGE FROM MY SCHOOL</div>
+            </div>
+         </div>
+         <div class="row margin-top-10">
+            <div class="col-lg-9 col-md-9 col-sm-9">
+               <div class="text-box">
+                  <p>Dear parents, guardians and everyone!</p>
+                  <p>On behalf of the teaching and non-teaching staff of MY SCHOOL, we welcome you to our website.</p>
+                  <p>I'm pleased to be leading MY SCHOOL through such an exhilarating time in education.</p>
+                  <p>At MY SCHOOL, we aim to give every child the best foundation possible to their education through exciting and engaging interactions inside and outside the classrooms, enabling them to become active learners through a holistic and broad-based curriculum.</p>
+                  <p>The Preschool years are crucial to a child's development and our Nursery, Kinder 1 and Kinder 2 stages enable the children to get their school careers off to a soaring start. Moreover, our Primary classes enjoy varied and wide experiences which bring the different subjects to life and make learning enjoyable. Every member of the MY SCHOOL family gives their best to guarantee excellent quality of education for the children in every level.</p>
+                  <p>We hope our website provides all the information you need to know about us, but should there be other matters please contact us or visit our school.  We’d be delighted to personally assist you.</p>
+                  <p>Thank you for visiting!</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3">
+               <div class="photo-box">
+                  <img src="images/photo/school.jpg">
+               </div>
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="orange-head">ABOUT US</div>
+            </div>
+         </div>
+         <div class="row margin-top-10">
+            <div class="col-lg-6 col-md-6">
+               <div class="about-image">
+                  <img src="images/commons/bg-student.jpg" height="540">
+               </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+               <div class="blue-box">
+                  <h4>Historical Background</h4>
+                  <p>MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting</p>
+                  <a href=""><div class="readmore">READ MORE</div></a>
+               </div>
+               <div class="orange-box">
+                  <h4>Vision & Mission</h4>
+                  <p>MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting</p>
+                  <a href=""><div class="readmore">READ MORE</div></a>
+               </div>
+               <div class="green-box">
+                  <h4>Vision & Mission</h4>
+                  <p>MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting</p>
+                  <a href=""><div class="readmore">READ MORE</div></a>
+               </div>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="green-head">LASTEST NEWS</div>
+            </div>
+         </div>
+         <div class="row margin-top-10">
+            <div class="col-lg-4 col-md-4 col-lg-4 col-sm-4">
+               <div class="blue-image-box">
+                  <img src="images/news/school-teachers.jpg">
+               </div>
+               <div class="blue-news-title">NEWS ARTICLE 1</div>
+               <div class="news-text">
+                  MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting in 2010 to educate pre-school children consisting 2010 to educate pre-school children consisting
+               </div>
+               <a href=""><div class="blue-readmore">READ MORE</div></a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-lg-4 col-sm-4">
+               <div class="orange-image-box">
+                  <img src="images/news/TEACHER-with-students.jpg">
+               </div>
+               <div class="orange-news-title">NEWS ARTICLE 2</div>
+               <div class="news-text">
+                  MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting in 2010 to educate pre-school children consisting 2010 to educate pre-school children consisting
+               </div>
+               <a href=""><div class="orange-readmore">READ MORE</div></a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-lg-4 col-sm-4">
+               <div class="green-image-box">
+                  <img src="images/news/7497637986_f22b412edf_o.jpg">
+               </div>
+               <div class="green-news-title">NEWS ARTICLE 3</div>
+               <div class="news-text">
+                  MY SCHOOL is operated and maintained as a private school dedicated to provide excellent basic education in Cambodia. It was established in 2010 to educate pre-school children consisting in 2010 to educate pre-school children consisting 2010 to educate pre-school children consisting
+               </div>
+               <a href=""><div class="green-readmore">READ MORE</div></a>
+            </div>
+         </div>
+      </div>
+      <div class="footer">
+         <div class="container">
+            <div class="row margin-bottom-25">
+               <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="footer-title">OUR AFFILIATED COMPANY</div>
+                  <p><img src="images/commons/khmerd-logo.png"></p>
+               </div>
+               <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="footer-title">ABOUT STAMFORD</div>
+                  <p>Our Staff</p>
+                  <p>Our Students</p>
+                  <p>Our Partners</p>
+                  <p>Work With Us</p>
+               </div>
+               <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="footer-title">OUR PROGRAMS</div>
+                  <p>Nursery</p>
+                  <p>Kindergarten I</p>
+                  <p>Kindergarten II</p>
+                  <p>Primary</p>
+               </div>
+               <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="footer-title">CONTACT INFORMATION</div>
+                  <p><div class="facebook-icon"></div>Follow Us On Facebook</p>
+                  <p><div class="youtube-icon"></div>Subscribe Us On Youtube</p>
+                  <p><div class="email-icon"></div>yourname@domain.edu.kh</p>
+                  <p><div class="phone-icon"></div>(123) 0123 456 789</p>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-12 text-center font-size-13">
+                  &copy;2016 My School All Rights Reserved.<br>
+                  Design by KhmerD
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="js/bootstrap.min.js"></script>
+   </body>
+</html>

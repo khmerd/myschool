@@ -1,0 +1,275 @@
+@import url("https://fonts.googleapis.com/css?family=Maven Pro");
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+body {
+  font-family: Maven Pro;
+}
+a:hover{
+   text-decoration: none;
+}
+.header{
+   background: #2cc3ce;
+   padding: 25px 0px;
+}
+.navbar-inverse{
+	border-radius:0px;
+	border:0px;
+	background:#2cc3ce;
+	margin-bottom:0px;
+}
+.nav-comstom{
+   background: #e5b14c;
+	padding-left:0px;
+   padding-right:0px;
+}
+.nav.navbar-nav li a {
+  	color:#fff;
+	border-right:1px solid #2cc3ce;
+	padding-left:25px;
+	padding-right:25px;
+	text-align:center;
+	font-size:12px;
+}
+.nav.navbar-nav li:hover {
+	background:#22b573;
+}
+.actives{
+	background:#22b573;
+}
+.slider{
+   border: #e5b14c 2px solid;
+}
+.about-image{
+   width: 102.5%;
+}
+.blue-head{
+   background: #01a2a6;
+   margin-top: 20px;
+   color: #fff;
+   padding: 10px 0px 10px 13px;
+   font-size: 15px;
+   font-family: Poppins;
+}
+.orange-head{
+   background: #e5b14c;
+   margin-top: 20px;
+   color: #fff;
+   padding: 10px 0px 10px 13px;
+   font-size: 15px;
+   font-family: Poppins;
+}
+.green-head{
+   background: #22b573;
+   margin-top: 20px;
+   color: #fff;
+   padding: 10px 0px 10px 13px;
+   font-size: 15px;
+   font-family: Poppins;
+}
+.text-box{
+   width: 102%;
+   border: 1px solid #2cc3ce;
+   padding: 10px 15px 8px 15px;
+}
+.photo-box{
+   border: 1px solid #2cc3ce;
+}
+.photo-box img{
+   width: 100%;
+}
+.blue-box{
+   background: #01a2a6;
+   padding: 10px 15px 10px 15px;
+   margin-bottom: 10px;
+   float: left;
+}
+.blue-box h4{
+   color: #fff;
+}
+.blue-box p{
+   color: #fff;
+}
+.blue-box:hover{
+   box-shadow: 0px 3px 5px #888888;
+}
+.readmore{
+   width: 110px;
+   color: #fff;
+   border:#fff 1px solid;
+   padding: 10px;
+   text-align: center;
+   float: right;
+}
+.readmore:hover{
+   color: #eaeaea;
+}
+.orange-box{
+   background: #e5b14c;
+   padding: 10px 15px 10px 15px;
+   margin-bottom: 10px;
+   float: left;
+}
+.orange-box:hover{
+   box-shadow: 0px 3px 5px #888888;
+}
+.orange-box h4{
+   color: #fff;
+}
+.orange-box p{
+   color: #fff;
+}
+.green-box{
+   background: #22b573;
+   padding: 10px 15px 10px 15px;
+   float: left;
+}
+.green-box:hover{
+   box-shadow: 0px 3px 5px #888888;
+}
+.green-box h4{
+   color: #fff;
+}
+.green-box p{
+   color: #fff;
+}
+.blue-image-box{
+   border: 2px solid #01a2a6;
+}
+.blue-image-box img{
+   width: 100%;
+}
+.orange-image-box{
+   border: 2px solid #e5b14c;
+}
+.orange-image-box img{
+   width: 100%;
+}
+.green-image-box{
+   border: 2px solid #22b573;
+}
+.green-image-box img{
+   width: 100%;
+}
+.blue-news-title{
+   color: #01a2a6;
+   font-size: 15px;
+   margin-top: 15px;
+}
+.orange-news-title{
+   color: #e5b14c;
+   font-size: 15px;
+   margin-top: 15px;
+}
+.green-news-title{
+   color: #22b573;
+   font-size: 15px;
+   margin-top: 15px;
+}
+.news-text{
+   margin: 15px 0px;
+}
+.blue-readmore{
+   width: 110px;
+   color: #fff;
+   padding: 10px;
+   text-align: center;
+   background: #01a2a6;
+}
+.blue-readmore:hover{
+   background: #34b5b8;
+}
+.orange-readmore{
+   width: 110px;
+   color: #fff;
+   padding: 10px;
+   text-align: center;
+   background: #e5b14c;
+}
+.orange-readmore:hover{
+   background: #eac170;
+}
+.green-readmore{
+   width: 110px;
+   color: #fff;
+   padding: 10px;
+   text-align: center;
+   background: #22b573;
+}
+.green-readmore:hover{
+   background: #4ec48f;
+}
+.footer{
+   background: #22b573;
+   margin-top: 20px;
+   padding: 25px 0px 15px 0px;
+   color: #fff;
+}
+.footer-title{
+   border-bottom: 3px solid #e5b14c;
+   margin-bottom: 10px;
+   padding-bottom: 5px;
+}
+.facebook-icon{
+   width: 22px;
+   height: 22px;
+   background: url(../images/icon/facebook.png) no-repeat;
+   float: left;
+   margin-right:5px;
+}
+.email-icon{
+   width: 22px;
+   height: 22px;
+   background: url(../images/icon/email.png) no-repeat;
+   float: left;
+   margin-right:5px;
+}
+.youtube-icon{
+   width: 22px;
+   height: 22px;
+   background: url(../images/icon/youtube.png) no-repeat;
+   float: left;
+   margin-right:5px;
+}
+.phone-icon{
+   width: 22px;
+   height: 22px;
+   background: url(../images/icon/phone.png) no-repeat;
+   float: left;
+   margin-right:5px;
+}
+@media all and (max-width: 990px) {
+   .video{
+      width: 100%;
+   }
+}
+
+/* mobile */
+@media all and (max-width: 768px) {
+   .container{
+      width: 100%;
+   }
+   .nav.navbar-nav li a {
+      width: 100%;
+   }
+   .nav-comstom{
+      padding-right:15px;
+   }
+   .text-box{
+      width: 100%;
+   }
+   .video{
+      width: 100%;
+   }
+}
+
+/* small mobile */
+@media all and (max-width: 568px) {
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
